@@ -16,7 +16,7 @@ This is a motion design inspired by the sharingan from Naruto Series.
 
 ### Links
 
-- Live Site URL: [live site URL]()
+- Live Site URL: [live site URL](https://devsenpai-motion-sharingan.netlify.app/)
 
 ### Built with
 
@@ -36,3 +36,5 @@ This is a motion design inspired by the sharingan from Naruto Series.
 
 - Website - [DevSenpai](https://www.your-site.com)
 - Twitter - [@DevSenpai09](https://twitter.com/DevSenpai09)
+- Facebook - [@DevSenpai09](https://web.facebook.com/devsenpaio09)
+- Instagram - [@DevSenpai09](https://www.instagram.com/devsenpai09)
