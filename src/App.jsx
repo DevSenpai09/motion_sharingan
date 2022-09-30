@@ -3,7 +3,7 @@ import Sharingan from "./Sharingan";
 
 const StyledApp = styled.main`
   padding-inline: 3rem;
-  height: 100vh;
+  height: ${window.innerHeight}px;
   display: grid;
   align-content: center;
   justify-items: center;
