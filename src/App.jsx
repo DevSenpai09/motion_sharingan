@@ -7,7 +7,7 @@ const StyledApp = styled.main`
   display: grid;
   align-content: center;
   justify-items: center;
-  gap: 10rem;
+  gap: 3rem;
   overflow: hidden;
 
   h1 {
@@ -18,13 +18,21 @@ const StyledApp = styled.main`
     font-size: clamp(1.2rem, 5vw, 1.8rem);
     opacity: 0.3;
   }
+
+  .sharingan_wrapper {
+    height: clamp(20rem, 70vmin, 50rem);
+    display: flex;
+    align-items: center;
+  }
 `;
 
 const App = () => {
   return (
     <StyledApp className="App">
       <h1>DevSenpai Motion Sharingan</h1>
-      <Sharingan />
+      <div className="sharingan_wrapper">
+        <Sharingan />
+      </div>
     </StyledApp>
   );
 };
